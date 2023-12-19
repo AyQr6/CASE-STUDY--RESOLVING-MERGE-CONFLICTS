@@ -1,2 +1,8 @@
+ HEAD
 heyy 
 i am deleting old chat and new one
+=======
+hello 
+this is me and my file
+heyyy im again here
+  develop
